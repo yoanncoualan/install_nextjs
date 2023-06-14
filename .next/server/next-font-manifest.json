@@ -1,0 +1,17 @@
+{
+  "pages": {
+    "/": [
+      "static/media/2aaf0723e720e8b9-s.p.woff2"
+    ]
+  },
+  "app": {
+    "/Users/yoanncoualan/Desktop/install_nextjs/node_modules/@next/font/google/target.css?{\"path\":\"pages/index.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}": [
+      "static/media/2aaf0723e720e8b9-s.p.woff2"
+    ],
+    "/Users/yoanncoualan/Desktop/install_nextjs/node_modules/@next/font/google/target.css.webpack[javascript/auto]!=!/Users/yoanncoualan/Desktop/install_nextjs/node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[1].oneOf[5].use[1]!/Users/yoanncoualan/Desktop/install_nextjs/node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[1].oneOf[5].use[2]!/Users/yoanncoualan/Desktop/install_nextjs/node_modules/@next/font/google/target.css?{\"path\":\"pages/index.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}": [
+      "static/media/2aaf0723e720e8b9-s.p.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pagesUsingSizeAdjust": true
+}
